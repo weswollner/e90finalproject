@@ -86,7 +86,7 @@ function App() {
       {({ signOut, user }) => (
         <Container className="p-3">
           <Container className="p-5 mb-4 bg-light rounded-3">
-            <h1>Project Timer Application v2</h1>
+            <h1>Project Timer Application v3</h1>
             <Form>
               <Row>
                 <Col>
